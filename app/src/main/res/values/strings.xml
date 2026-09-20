@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">powitanie</string>
+    <string name="app_name">Powitanie</string>
+    <string name="screen_title">Powitanie</string>
+    <string name="hint_name">Wpisz swoje imię</string>
+    <string name="btn_greet">Przywitaj się</string>
+    <string name="greeting">Cześć, %1$s!</string>
+    <string name="error_empty_name">Najpierw wpisz imię</string>
 </resources>
